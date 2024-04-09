@@ -1,2 +1,2 @@
 # HackerRank
-Practicing skills and challenges
+This repo is for practicing skills and challenges from HackerRank.
