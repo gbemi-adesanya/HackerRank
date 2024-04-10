@@ -1,6 +1,6 @@
 """
-difficulty: easy
-problem: https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem
+Difficulty: easy
+Problem: https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem
 """
 
 if __name__ == '__main__':
