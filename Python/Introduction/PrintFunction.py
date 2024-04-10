@@ -1,6 +1,6 @@
 """
-difficulty: easy
-problem: https://www.hackerrank.com/challenges/python-print/problem
+Difficulty: easy
+Problem: https://www.hackerrank.com/challenges/python-print/problem
 """
 
 if __name__ == '__main__':
