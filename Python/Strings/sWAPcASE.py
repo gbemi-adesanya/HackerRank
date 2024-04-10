@@ -1,4 +1,8 @@
-# difficulty: easy
+"""
+Difficulty: easy
+Problem: https://www.hackerrank.com/challenges/swap-case/problem
+"""
+
 def swap_case(s):
     string = ""
     for i in s:
