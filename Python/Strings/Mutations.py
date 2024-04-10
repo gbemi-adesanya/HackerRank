@@ -1,4 +1,8 @@
-# difficulty: easy
+"""
+Difficulty: easy
+Problem: https://www.hackerrank.com/challenges/python-mutations/problem
+"""
+
 def mutate_string(string, position, character):
     array = list(string)
     array[position] = character
