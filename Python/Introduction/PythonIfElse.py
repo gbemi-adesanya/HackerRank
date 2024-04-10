@@ -1,4 +1,8 @@
-# difficulty: easy
+"""
+difficulty: easy
+# problem: https://www.hackerrank.com/challenges/py-if-else/problem
+"""
+
 import math
 import os
 import random
