@@ -1,6 +1,6 @@
 """
 Difficulty: easy
-Problem:
+Problem: https://www.hackerrank.com/challenges/symmetric-difference/problem
 """
 
 if __name__ == "__main__":
