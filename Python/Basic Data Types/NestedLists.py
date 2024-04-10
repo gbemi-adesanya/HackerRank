@@ -1,4 +1,8 @@
-# difficulty: easy
+"""
+difficulty: easy
+problem: https://www.hackerrank.com/challenges/nested-list/problem
+"""
+
 if __name__ == '__main__':
     records = list()
     scores = list()
