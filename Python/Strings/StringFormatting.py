@@ -19,7 +19,6 @@ def convert(num, base):
     return converted_num
 
 def print_formatted(number):
-    # your code goes here
     max_binary = convert(number, 2)
     width = len(max_binary)  # the width of number in base 2 (as it is likely to be the longest)
     for i in range(1, number+1):
