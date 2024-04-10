@@ -1,6 +1,6 @@
 """
-difficulty: medium
-problem: https://www.hackerrank.com/challenges/write-a-function/problem
+Difficulty: medium
+Problem: https://www.hackerrank.com/challenges/write-a-function/problem
 """
 
 def is_leap(year):
