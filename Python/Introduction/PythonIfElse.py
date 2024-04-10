@@ -1,6 +1,6 @@
 """
-difficulty: easy
-problem: https://www.hackerrank.com/challenges/py-if-else/problem
+Difficulty: easy
+Problem: https://www.hackerrank.com/challenges/py-if-else/problem
 """
 
 import math
