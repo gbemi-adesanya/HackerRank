@@ -1,6 +1,6 @@
 """
 Difficulty: medium
-Problem:
+Problem: https://www.hackerrank.com/challenges/no-idea/problem
 """
 
 if __name__ == "__main__":
