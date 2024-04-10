@@ -1,4 +1,7 @@
-# difficulty: easy
+"""
+Difficulty: easy
+Problem: https://www.hackerrank.com/challenges/text-alignment/problem
+"""
 
 thickness = int(input())
 c = 'H'
