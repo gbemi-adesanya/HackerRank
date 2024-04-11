@@ -1,5 +1,5 @@
 """
-Difficulty: medium
+Difficulty: easy
 Problem: https://www.hackerrank.com/challenges/python-mod-divmod/problem
 """
 
