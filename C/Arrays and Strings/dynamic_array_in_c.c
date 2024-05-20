@@ -38,7 +38,7 @@ int main()
              */
             int x, y;
             scanf("%d %d", &x, &y);
-            total_number_of_books[x] += 1; // Increment the number of books in the xth shelf
+            total_number_of_books[x]++; // Increment the number of books in the xth shelf
             total_number_of_pages[x] = realloc(total_number_of_pages[x], sizeof(int*) * total_number_of_books[x]); // Create space on the shelf for the new book
             *(total_number_of_pages[x] + total_number_of_books[x] - 1) = y; // Change the number of pages of the last book on the xth shelf to y
             
