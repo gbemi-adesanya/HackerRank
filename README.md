@@ -5,8 +5,3 @@ This repo is for practicing skills and challenges from HackerRank.
 Errors and Exceptions   
     - IncorrectRegex.py  
         -- issues with test cases
-
-XML  
-Closures and Decorators  
-Numpy  
-Debugging
