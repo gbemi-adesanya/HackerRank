@@ -9,4 +9,5 @@ Errors and Exceptions
 
 
 ## Problem Solving
+# Algorithms - Strings
 Determining DNA Health
