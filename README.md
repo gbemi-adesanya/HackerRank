@@ -1,13 +1,13 @@
 # HackerRank
 This repo is for practicing skills and challenges from HackerRank.
 
-### TASKS
-## Python
+## TASKS
+### Python
 Errors and Exceptions   
     - IncorrectRegex.py  
         -- issues with test cases
 
 
-## Problem Solving
-# Algorithms - Strings
+### Problem Solving
+#### Algorithms - Strings
 Determining DNA Health
