@@ -11,23 +11,21 @@ import os
 import random
 import re
 import sys
+from collections import defaultdict
 
 
 def sherlockAndAnagrams(s):
-    result, n = 0, len(s)
+    n = len(s)
+    freq = defaultdict(int)
     
     for i in range(n):
-        for j in range(i+1, n):
+        for j in range(i+1, n+1):
             sub = "".join(sorted(s[i:j]))
-            n_sub = len(sub)
-
-            for k in range(i+1, n):
-                if k + n_sub > n:
-                    break
-
-                subb = "".join(sorted(s[k : k + n_sub]))
-                if sub == subb:
-                    result += 1
+            freq[sub] += 1
+            
+    result = 0
+    for count in freq.values():
+        result += count * (count - 1) // 2
     
     return result
     
