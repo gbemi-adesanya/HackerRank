@@ -10,4 +10,5 @@ Errors and Exceptions
 
 ### Problem Solving
 #### Algorithms - Strings
-Determining DNA Health
+Determining DNA Health  
+Count Strings
